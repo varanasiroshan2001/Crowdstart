@@ -2,6 +2,10 @@ Architecture:-
 
 ![another architecture](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/dca0fdf2-5eec-4e9a-b97e-7a94db6929db)
 
+Flow Diagram:-
+
+![image](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/e451c51c-096a-44a4-8b82-e44bd513b3a5)
+
 Homepage:-
 
 ![WhatsApp Image 2022-11-29 at 1 23 57 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/b8a5c711-844a-428f-8ad7-c101928f7f6a)
@@ -33,12 +37,13 @@ Checking with no of approvers is checked here and accordingly the finalize butto
 
 Contributor approval and transaction requests
 ![image](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/3a968011-e39f-4bda-b7ea-7cd3c0a6d555)
+![image](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/cef4afd7-55ea-47b0-b336-dfcc4e3c2018)
 
 
 Campaign Balance after gradually increasing donaters:-
+![image](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/06028ec2-abf0-4b06-92d7-803440ed9f41)
 
-
-
+![image](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/5ab8feb2-4e27-4e76-8be8-1d3a0bef8cac)
 
 Logout pages:
 ![WhatsApp Image 2022-11-29 at 1 59 17 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/6275f597-0eca-41cb-812b-7f34aba897d1)
