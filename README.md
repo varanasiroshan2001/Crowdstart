@@ -1,74 +1,44 @@
-# Getting Started with Create React App
+Architecture:-
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![another architecture](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/dca0fdf2-5eec-4e9a-b97e-7a94db6929db)
 
-## Available Scripts
+Homepage:-
 
-In the project directory, you can run:
+![WhatsApp Image 2022-11-29 at 1 23 57 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/b8a5c711-844a-428f-8ad7-c101928f7f6a)
 
-### `npm start`
+![WhatsApp Image 2022-11-29 at 1 29 21 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/a1041306-8d34-4424-a51b-885d3131ca8b)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Login and sign ups via metamask:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![WhatsApp Image 2022-11-29 at 1 40 47 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/c71ad9a6-3baf-4202-a7cf-8e83d9c75010)
+![WhatsApp Image 2022-11-29 at 1 33 34 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/d6b22441-3990-42e5-996d-c5b3341e4662)
+![WhatsApp Image 2022-11-29 at 1 36 29 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/409e2959-9b45-4f99-975a-07b04f0d0acc)
 
-### `npm test`
+Creation of campaign for startup:--
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![WhatsApp Image 2022-11-29 at 1 49 45 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/bae0953e-ff7b-4710-9941-b849aef4ce99)
+![WhatsApp Image 2022-11-29 at 1 47 18 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/762168e1-a3e2-46e5-8e33-52e60d5e8c03)
+![WhatsApp Image 2022-11-29 at 1 58 59 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/c5a103fc-6cab-4b4b-a5b8-992c65a7101b)
 
-### `npm run build`
+recommended startup page via our ml code
+![WhatsApp Image 2022-11-29 at 1 53 55 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/57d45165-b291-49ef-9b30-303f88edf8bf)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Donation page and users donate to startup:-
+![WhatsApp Image 2022-11-29 at 9 20 43 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/b2c8eecc-5671-4648-b383-4057b4589f52)
+![WhatsApp Image 2022-11-29 at 1 55 56 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/0a2b0dce-f5d4-4d97-a971-b1314ba19112)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Checking with no of approvers is checked here and accordingly the finalize button will trigger for successful/unsuccessful withdrawal
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/5aa62962-86fb-49e3-a109-58d7f397bc3a)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# cryptofunds
+Contributor approval and transaction requests
+![image](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/3a968011-e39f-4bda-b7ea-7cd3c0a6d555)
 
 
-0x7b5CB1e0701132bc7c7019Efa4069514870b4e13# crowdstart
+Campaign Balance after gradually increasing donaters:-
+
+
+
+
+Logout pages:
+![WhatsApp Image 2022-11-29 at 1 59 17 PM](https://github.com/varanasiroshan2001/Crowdstart/assets/64471180/6275f597-0eca-41cb-812b-7f34aba897d1)
